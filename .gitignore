@@ -3,3 +3,4 @@ node_modules
 guidelines
 ## Lock file(s)
 package-lock.json
+README.md
